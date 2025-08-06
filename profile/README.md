@@ -15,7 +15,7 @@
 
 ## 📬 Contacto y comunidad
 
-- Instagram: [@4method.dev](https://instagram.com/4method_org)  
+- Instagram: [@4method_org](https://instagram.com/4method_org)  
 - GitHub: [github.com/4method](https://github.com/4method)
 
 ---
