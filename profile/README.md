@@ -1,12 +1,23 @@
-## Hi there 👋
+# 4METHOD
 
-<!--
+**4METHOD** es una organización dedicada a crear herramientas, productos digitales y recursos open source para desarrolladores. Nuestro objetivo es construir soluciones útiles, compartir conocimiento y fomentar una comunidad activa y colaborativa.
 
-**Here are some ideas to get you started:**
+## 🧩 Qué hacemos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 🛠️ Librerías y utilidades para desarrolladores  
+- 🚀 Productos digitales y herramientas SaaS  
+- 📦 Proyectos open source  
+- 📚 Contenido educativo y recursos técnicos
+
+## 🌍 Hecho en LATAM
+
+4METHOD nace con la idea de impulsar el talento local y aportar valor a la comunidad global desde Latinoamérica.
+
+## 📬 Contacto y comunidad
+
+- Instagram: [@4method.dev](https://instagram.com/4method_org)  
+- GitHub: [github.com/4method](https://github.com/4method)
+
+---
+
+**Contribuí, aprendé y creá con nosotros.**
